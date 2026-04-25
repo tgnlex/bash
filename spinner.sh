@@ -8,4 +8,6 @@ spinner() {
   done
   
 }
+
+# Comment out invocation to use as source file # 
 spinner
