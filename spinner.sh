@@ -1,3 +1,6 @@
+source ./lib/debug.sh
+
+
 spinner() {
   local c 
   while true; do
@@ -10,4 +13,5 @@ spinner() {
 }
 
 # Comment out invocation to use as source file # 
+debug 
 spinner
